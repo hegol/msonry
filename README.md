@@ -1,1 +1,1 @@
-# msonry
+# msonry.js
